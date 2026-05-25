@@ -54,7 +54,9 @@ The machine learning model classifies SMS messages as spam or non-spam (ham).
 
 ---
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
+## output Screenshot
+
+![Screenshot](ScreenShot1_Task4.png)
+![Screenshot](ScreenShot2_Task4.png)
 
 ---
